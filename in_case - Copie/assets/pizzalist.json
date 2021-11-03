@@ -1,0 +1,9 @@
+{
+    
+        "id":1,
+        "pizzaName":"pizza1",
+        "description":"very yummy",
+         "price": 10,
+         "imageUrl": "https://www.cieau.com/wp-content/uploads/2019/11/eau_nature.jpg"
+    
+}
